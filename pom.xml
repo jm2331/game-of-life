@@ -126,7 +126,7 @@
                     <jvmArguments>-Xmx512m -Dwebdriver.driver=${webdriver.driver}</jvmArguments>
                 </configuration>
             </plugin>
-
+<!--
             <plugin>
                 <groupId>com.jelastic</groupId>
                 <artifactId>jelastic-maven-plugin</artifactId>
@@ -140,7 +140,7 @@
                     <finalName>gameoflife</finalName>
                 </configuration>
             </plugin>
-
+-->
         </plugins>
 
         <pluginManagement>
